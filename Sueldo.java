@@ -38,6 +38,6 @@ public class Main
        Pago = (Sueldo*Dias) + Pconextras;
        
         System.out.println("El pago de las horas extras es: " + Pconextras);
-        System.out.println("Tu pago total es: " + Pago);
+        System.out.println("El pago total de " + Empleado + " es: " + Pago);
     }
 } 
