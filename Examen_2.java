@@ -12,7 +12,7 @@ public class Main
        
         Scanner scanner = new Scanner(System.in);
            
-            System.out.println("Ingresa los datos" );
+            System.out.println("Ingresa los datos para tu prisma triangular" );
         
         System.out.print("lado: ");
         lado = scanner.nextDouble();
