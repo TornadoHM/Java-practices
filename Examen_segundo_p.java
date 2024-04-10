@@ -56,3 +56,5 @@ public class Main {
 // Dependiendo de la opcion selecionada (1,2,3,4), el programa utilizarà los ciclos y condiciones para
 // Posteriormente ejecutar la opcion seleccionada, ya sea si se quiere ingresar que trenes llegan o salen
 // Saber cuantos se encuentran en la terminar y por ultimo para ejecutar el final del codigo
+// Cuando se decida revisar la cantidad de trenes estacionados, subir la terminal para no ver solamente 
+// Las opciones del bucle
